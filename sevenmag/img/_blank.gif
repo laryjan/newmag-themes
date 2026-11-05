@@ -1,0 +1,424 @@
+<!doctype html>
+<!--[if IE 8 ]><html class="ie8" lang="en-US"><![endif]-->
+<!--[if IE 9 ]><html class="ie9" lang="en-US"><![endif]-->
+<!--[if (gte IE 10)|!(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><!--<![endif]-->
+<head>
+	<title>Page not found | Theme20</title>
+	<meta charset="UTF-8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<link rel="pingback" href="http://theme20.com/wp/xmlrpc.php" />
+
+	<link rel="alternate" type="application/rss+xml" title="Theme20 &raquo; Feed" href="../../../feed/default.htm" />
+<link rel="alternate" type="application/rss+xml" title="Theme20 &raquo; Comments Feed" href="../../../comments/feed/default.htm" />
+<link href="../../../../fonts.googleapis.com/css@family=Roboto_7CRoboto_7CRoboto_7CRoboto" rel="stylesheet" type="text/css">
+<link rel='stylesheet' id='itempropwp-css'  href='../../../wp/wp-content/plugins/itempropwp/assets/css/itempropwp.css@ver=3.4.0' type='text/css' media='all' />
+<link rel='stylesheet' id='sevenstyle-css'  href='../../../wp/wp-content/themes/sevenmag/style.css@ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='icons-css'  href='../../../wp/wp-content/themes/sevenmag/styles/icons.css@ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='../../../wp/wp-content/themes/sevenmag/styles/animate.css@ver=3.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='../../../wp/wp-content/themes/sevenmag/styles/responsive.css@ver=3.9.1' type='text/css' media='all' />
+<script type='text/javascript' src='../../../wp/wp-includes/js/jquery/jquery.js@ver=1.11.0'></script>
+<script type='text/javascript' src='../../../wp/wp-includes/js/jquery/jquery-migrate.min.js@ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://theme20.com/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.1" />
+<div style="display: none">
+<script type="text/javascript" language="javascript" src="../../../../www.webgozar.ir/c.aspx@Code=3257452&t=counter" ></script>
+<noscript><a href="../../../../www.webgozar.com/counter/stats.aspx@code=3257452" target="_blank">&#1570;&#1605;&#1575;&#1585;</a></noscript>
+</div>
+
+		<script type="text/javascript">	
+			/* <![CDATA[ */
+				jQuery(document).ready(function() {
+					jQuery(window).on('load', function(){ var $ = jQuery; });
+					var $masonrytt = jQuery('#masonry-container');
+					$masonrytt.imagesLoaded( function(){
+						$masonrytt.masonry({
+							itemSelector: '.post',
+							isRTL: false,
+							columnWidth: 1,
+							isAnimated: true,
+							animationOptions: {
+								duration: 300,
+								easing: 'easeInExpo',
+								queue: true
+							}
+						});
+					});
+				});
+			/* ]]> */
+		</script>
+	<link rel="shortcut icon" href="../../../wp/wp-content/uploads/2014/03/favicon.png" />
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<style type="text/css">
+body { font-family: "Roboto", Roboto, tahoma, sans-serif; }
+nav a { font-family: "Roboto", Roboto, tahoma, sans-serif; }
+h1, h2, h3, h4, h5, h6 { font-family: "Roboto", Roboto, tahoma, sans-serif; }
+body{background-image:url(../../../wp/wp-content/uploads/2014/03/BlurredBackground9.jpg);background-repeat:repeat;background-attachment:fixed;background-position:center top;background-color:#ddd;background-size:auto;}
+.featured_thumb .thumb-icon {background: rgba(0,0,0, 0.4) !important}
+</style>
+
+	<!--[if IE]>
+		<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=EmulateIE8; IE=EDGE" />
+		<script src="../../../../html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	<style>
+		.masonry_T {margin: 0 0 0 -px !important} .masonry_T .mosaicflow__item {margin: 0 0 0 px !important} 
+		.masonry_T .b_block {margin: 0 0 px 0 !important}	</style>
+</head>
+
+<body class="error404 wpb-js-composer js-comp-ver-4.0.3 vc_responsive">
+	<div id="layout" class="boxed-margin ">
+		<header id="header">
+						<div class="sec_head">
+				<div class="row clearfix">
+
+											<nav id="mymenutwo">
+							<ul class="sf-menu "><li id="menu-item-53" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-53"><a href="../../../category/themes/default.htm">Themes</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-52"><a href="../../../category/plugins/default.htm">Plugins</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-54"><a href="../../../category/tutorials/default.htm">Tutorials</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-51"><a href="../../../category/inspiration/default.htm">Inspiration</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56"><a href="../../../category/psds/default.htm">PSD&#8217;s</a></li>
+</ul>						</nav><!-- /nav -->
+					
+					<div class="right_bar">
+						<div class="social"><a rel="nofollow" class="bottomtip" title="Facebook" href="../../../../facebook.com/theme20" target="Array"><i class="fa fa-facebook"></i></a><a rel="nofollow" class="bottomtip" title="Twtitter" href="../../../../twitter.com/theme_20" target="Array"><i class="fa fa-twitter"></i></a></div>
+													<div class="social r_post"><a href="_blank.gif@random=1" class="bottomtip" title="Random Post"><i class="fa fa-random"></i></a></div>
+						
+												<div class="search">
+							<div class="search_icon bottomtip" title="Search"><i class="fa fa-search"></i></div>
+							<div id="popup">
+								<div class="search_place">
+									<h4> SEARCH ON THEME20 </h4>
+									<div class="s_form">
+										<form action="http://theme20.com/" id="search" class="searchform" method="get">
+											<input id="inputhead" name="s" type="text" onfocus="if (this.value=='Start Searching...') this.value = '';" onblur="if (this.value=='') this.value = 'Start Searching...';" value="" placeholder="Start Searching...">
+											<button type="submit"><i class="fa fa-search"></i></button>
+										</form><!-- /form -->
+									</div><!-- /form -->
+								</div><!-- /search place -->
+								<!-- <div id="popupLoginClose">x</div> -->
+							</div><!-- /popup -->
+							<div id="SearchBackgroundPopup"></div>
+						</div><!-- /search -->
+											</div><!-- /rightbar -->
+				</div><!-- /row -->
+			</div><!-- /sec head -->			<div class="head">
+				<div class="row clearfix">
+					<div class="logo">
+						<h1><a class="text_logo" href="../../../default.htm" title="Wordpress, Premium, Free, Development, Design, PSD" rel="home">Theme20</a></h1>
+					</div><!-- /logo -->
+
+					<nav id="mymenuone">
+												<ul class="sf-menu res_mode"><li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a></a></li>
+</ul>					</nav><!-- /nav -->
+
+											<div class="banner">
+							<a target="_balnk" rel="nofollow" href="../../../../themeforest.net/@ref=T20" title="Premium Multipurpose Themes and Templates">									<img src="../../../wp/wp-content/uploads/2014/03/tf_468x60_v4.gif" alt="Premium Multipurpose Themes and Templates"></a>						</div><!-- /banner ads -->
+									</div><!-- /row -->
+			</div><!-- /head -->		</header><!-- /header -->
+
+		
+
+		<div id="T20_container" class="page-content">
+			<div class="row clearfix">	<div class="grid_9 alpha">
+
+					<div class="b_title"><h3><i class="icon-warning mi"></i> Page not found!</h3></div>
+		
+			<div class="b_block">
+			<h1 class="mbt mt">Error 404 !</h1>
+			<p>The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.</p>
+			<form method="get" class="searchform" action="http://theme20.com/">
+	<input type="text" value="" name="s" id="s" />
+	<input class="search_btn" type="submit" value="Search" />
+</form>		</div><!--/block-->
+	</div><!--/grid-->
+
+
+	<div class="grid_3 omega">
+			        
+		
+		<div class="ads_widget introfx clearfix">
+			<span>ADS</span>
+				<a href="../../../../themeforest.net/item/sevenmag-blogmagzinegamesnews-wordpress-theme/7114090@ref=T20" target="_blank"><img src="../../../../https@d2mdw063ttlqtq.cloudfront.net/files/84280546/01_preview_sevenmag.__large_preview.jpg" width="260" height="125" alt="" /></a><a href="../../../../themeforest.net/item/increate-responsive-multipurpose-wordpress-theme/6925109@ref=T20" target="_blank"><img src="../../../../3.s3.envato.com/files/82069477/01_preview.__large_preview.png" width="260" height="125" alt="" /></a>		</div>
+
+<div id="facebook-like-widget-2" class="facebook_like">		<div class="b_title"><h4>Find us on Facebook</h4></div><div class="widget clearfix">		<iframe src="../../../../www.facebook.com/plugins/likebox.php@href=https_253A_252F_252Fwww.facebook.com_252Ftheme20&width=&colorscheme=light&show_faces=true&border_color=_2523dddddd&stream=false&header=false&height=260" scrolling="no" frameborder="0" style="border:none; padding:0; overflow:hidden; width:100%; height: 260px;" allowTransparency="true"></iframe>
+
+		</div></div><!-- .widget /-->
+<ul class="clearfix T20-tabs-nav group tab-count-4"><li class="T20-tab tab-recent"><a href="#tab-recent" title="Recent Posts"><i class="icon-folder-open"></i><span>Recent Posts</span></a></li><li class="T20-tab tab-popular"><a href="#tab-popular" title="Popular Posts"><i class="icon-heart"></i><span>Popular Posts</span></a></li><li class="T20-tab tab-comments"><a href="#tab-comments" title="Recent Comments"><i class="icon-conversation"></i><span>Recent Comments</span></a></li><li class="T20-tab tab-tags"><a href="#tab-tags" title="Tags"><i class="icon-tag"></i><span>Tags</span></a></li></ul>
+	<div class="widget clearfix introfx more_posts">
+
+	
+					
+									
+			<div id="tab-recent" class="T20-tab group">
+									<div class="item_small">
+						<div class="one_post">
+																					<div class="featured_thumb">
+								<a href="../../../10-best-slider-wordpress-plugins/default.htm" title="10 Best Slider WordPress Plugins">
+									<img width="80" height="80" src="../../../wp/wp-content/uploads/2014/04/Banner-80x80.png" class="attachment-thumbnail wp-post-image" alt="Banner" />
+									<span class="thumb-icon"><i class="icon-export"></i></span>								</a>
+							</div>
+																					<div class="item-details">
+								<h3><a href="../../../10-best-slider-wordpress-plugins/default.htm" rel="bookmark" title="10 Best Slider WordPress Plugins">10 Best Slider WordPress Plugins</a></h3>
+								<div class="post_meta">
+									<a href="../../../2014/04/default.htm" rel="date" title="10 Best Slider WordPress Plugins"><i class="icon-calendar mi"></i>22 Apr, 2014</a>
+									<a href="../../../10-best-slider-wordpress-plugins/#comments"><i class="icon-message mi"></i><span class="dsq-postid" rel="167 http_3A//theme20.com/@p=167">0</span></a>								</div>
+							</div>
+						</div>
+					</div>
+									<div class="item_small">
+						<div class="one_post">
+																					<div class="featured_thumb">
+								<a href="../../../10-magazine-blog-wp-themes-2014/default.htm" title="10 Magazine &#038; Blog WP Themes 2014">
+									<img width="80" height="80" src="../../../wp/wp-content/uploads/2014/04/01_preview.__large_preview1-80x80.png" class="attachment-thumbnail wp-post-image" alt="01_preview.__large_preview" />
+									<span class="thumb-icon"><i class="icon-export"></i></span>								</a>
+							</div>
+																					<div class="item-details">
+								<h3><a href="../../../10-magazine-blog-wp-themes-2014/default.htm" rel="bookmark" title="10 Magazine &#038; Blog WP Themes 2014">10 Magazine &#038; Blog WP Themes 2014</a></h3>
+								<div class="post_meta">
+									<a href="../../../2014/04/default.htm" rel="date" title="10 Magazine &#038; Blog WP Themes 2014"><i class="icon-calendar mi"></i>22 Apr, 2014</a>
+									<a href="../../../10-magazine-blog-wp-themes-2014/#comments"><i class="icon-message mi"></i><span class="dsq-postid" rel="165 http_3A//theme20.com/@p=165">0</span></a>								</div>
+							</div>
+						</div>
+					</div>
+									<div class="item_small">
+						<div class="one_post">
+																					<div class="featured_thumb">
+								<a href="../../../15-tumblr-themes-2014/default.htm" title="15 Tumblr Themes 2014">
+									<img width="80" height="80" src="../../../wp/wp-content/uploads/2014/04/Cover.__large_preview-80x80.jpg" class="attachment-thumbnail wp-post-image" alt="Cover.__large_preview" />
+									<span class="thumb-icon"><i class="icon-export"></i></span>								</a>
+							</div>
+																					<div class="item-details">
+								<h3><a href="../../../15-tumblr-themes-2014/default.htm" rel="bookmark" title="15 Tumblr Themes 2014">15 Tumblr Themes 2014</a></h3>
+								<div class="post_meta">
+									<a href="../../../2014/04/default.htm" rel="date" title="15 Tumblr Themes 2014"><i class="icon-calendar mi"></i>22 Apr, 2014</a>
+									<a href="../../../15-tumblr-themes-2014/#comments"><i class="icon-message mi"></i><span class="dsq-postid" rel="163 http_3A//theme20.com/@p=163">0</span></a>								</div>
+							</div>
+						</div>
+					</div>
+									<div class="item_small">
+						<div class="one_post">
+																					<div class="featured_thumb">
+								<a href="../../../12-new-wordpress-plugins-april-2014/default.htm" title="12 New WordPress Plugins April 2014">
+									<img width="80" height="80" src="../../../wp/wp-content/uploads/2014/04/sa_prview-80x80.png" class="attachment-thumbnail wp-post-image" alt="sa_prview" />
+									<span class="thumb-icon"><i class="icon-export"></i></span>								</a>
+							</div>
+																					<div class="item-details">
+								<h3><a href="../../../12-new-wordpress-plugins-april-2014/default.htm" rel="bookmark" title="12 New WordPress Plugins April 2014">12 New WordPress Plugins April 2014</a></h3>
+								<div class="post_meta">
+									<a href="../../../2014/04/default.htm" rel="date" title="12 New WordPress Plugins April 2014"><i class="icon-calendar mi"></i>22 Apr, 2014</a>
+									<a href="../../../12-new-wordpress-plugins-april-2014/#comments"><i class="icon-message mi"></i><span class="dsq-postid" rel="159 http_3A//theme20.com/@p=159">0</span></a>								</div>
+							</div>
+						</div>
+					</div>
+									<div class="item_small">
+						<div class="one_post">
+																					<div class="featured_thumb">
+								<a href="../../../11-grid-gallery-plugins-for-wordpress/default.htm" title="11 Grid Gallery Plugins for WordPress">
+									<img width="80" height="80" src="../../../wp/wp-content/uploads/2014/04/500px_preview-80x80.jpg" class="attachment-thumbnail wp-post-image" alt="500px_preview" />
+									<span class="thumb-icon"><i class="icon-export"></i></span>								</a>
+							</div>
+																					<div class="item-details">
+								<h3><a href="../../../11-grid-gallery-plugins-for-wordpress/default.htm" rel="bookmark" title="11 Grid Gallery Plugins for WordPress">11 Grid Gallery Plugins for WordPress</a></h3>
+								<div class="post_meta">
+									<a href="../../../2014/04/default.htm" rel="date" title="11 Grid Gallery Plugins for WordPress"><i class="icon-calendar mi"></i>22 Apr, 2014</a>
+									<a href="../../../11-grid-gallery-plugins-for-wordpress/#comments"><i class="icon-message mi"></i><span class="dsq-postid" rel="157 http_3A//theme20.com/@p=157">0</span></a>								</div>
+							</div>
+						</div>
+					</div>
+				    <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'theme20';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '../../../..//' + 'disqus.com/forums/' + disqus_shortname + '/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+			</div><!--/.T20-tab-->
+
+		
+
+						
+						<div id="tab-popular" class="T20-tab group">
+				
+									<div class="item_small">
+						<div class="one_post">
+																					<div class="featured_thumb">
+								<a href="../../../theme20-was-launched/default.htm" title="Theme20 was Launched">
+									<img width="80" height="80" src="../../../wp/wp-content/uploads/2014/03/pens2-80x80.jpg" class="attachment-thumbnail wp-post-image" alt="pens2" />
+									<span class="thumb-icon"><i class="icon-export"></i></span>								</a>
+							</div>
+																					<div class="item-details">
+								<h3><a href="../../../theme20-was-launched/default.htm" rel="bookmark" title="Theme20 was Launched">Theme20 was Launched</a></h3>
+								<div class="post_meta">
+									<a href="../../../2014/03/default.htm" rel="date" title="Theme20 was Launched"><i class="icon-calendar mi"></i>9 Mar, 2014</a>
+									<a href="../../../theme20-was-launched/#comments"><i class="icon-message mi"></i><span class="dsq-postid" rel="../../../wp/@p=1">0</span></a>								</div>
+							</div>
+						</div>
+					</div>
+									<div class="item_small">
+						<div class="one_post">
+																					<div class="featured_thumb">
+								<a href="../../../8-woocommerce-ecommerce-themes-2014/default.htm" title="8 Woocommerce eCommerce Themes 2014">
+									<img width="80" height="80" src="../../../wp/wp-content/uploads/2014/04/01_preview.__large_preview-80x80.jpg" class="attachment-thumbnail wp-post-image" alt="01_preview.__large_preview" />
+									<span class="thumb-icon"><i class="icon-export"></i></span>								</a>
+							</div>
+																					<div class="item-details">
+								<h3><a href="../../../8-woocommerce-ecommerce-themes-2014/default.htm" rel="bookmark" title="8 Woocommerce eCommerce Themes 2014">8 Woocommerce eCommerce Themes 2014</a></h3>
+								<div class="post_meta">
+									<a href="../../../2014/04/default.htm" rel="date" title="8 Woocommerce eCommerce Themes 2014"><i class="icon-calendar mi"></i>20 Apr, 2014</a>
+									<a href="../../../8-woocommerce-ecommerce-themes-2014/#comments"><i class="icon-message mi"></i><span class="dsq-postid" rel="141 http_3A//theme20.com/@p=141">0</span></a>								</div>
+							</div>
+						</div>
+					</div>
+									<div class="item_small">
+						<div class="one_post">
+																					<div class="featured_thumb">
+								<a href="../../../12-wp-seo-pluigns-2014/default.htm" title="12 WP SEO Pluigns 2014">
+									<img width="80" height="80" src="../../../wp/wp-content/uploads/2014/04/teaser_diwebtracker-80x80.png" class="attachment-thumbnail wp-post-image" alt="teaser_diwebtracker" />
+									<span class="thumb-icon"><i class="icon-export"></i></span>								</a>
+							</div>
+																					<div class="item-details">
+								<h3><a href="../../../12-wp-seo-pluigns-2014/default.htm" rel="bookmark" title="12 WP SEO Pluigns 2014">12 WP SEO Pluigns 2014</a></h3>
+								<div class="post_meta">
+									<a href="../../../2014/04/default.htm" rel="date" title="12 WP SEO Pluigns 2014"><i class="icon-calendar mi"></i>20 Apr, 2014</a>
+									<a href="../../../12-wp-seo-pluigns-2014/#comments"><i class="icon-message mi"></i><span class="dsq-postid" rel="143 http_3A//theme20.com/@p=143">0</span></a>								</div>
+							</div>
+						</div>
+					</div>
+									<div class="item_small">
+						<div class="one_post">
+																					<div class="featured_thumb">
+								<a href="../../../15-buddypress-wordpress-themes-2014/default.htm" title="15 BuddyPress WordPress Themes 2014">
+									<img width="80" height="80" src="../../../wp/wp-content/uploads/2014/04/01_preview1.__large_preview-80x80.jpg" class="attachment-thumbnail wp-post-image" alt="01_preview1.__large_preview" />
+									<span class="thumb-icon"><i class="icon-export"></i></span>								</a>
+							</div>
+																					<div class="item-details">
+								<h3><a href="../../../15-buddypress-wordpress-themes-2014/default.htm" rel="bookmark" title="15 BuddyPress WordPress Themes 2014">15 BuddyPress WordPress Themes 2014</a></h3>
+								<div class="post_meta">
+									<a href="../../../2014/04/default.htm" rel="date" title="15 BuddyPress WordPress Themes 2014"><i class="icon-calendar mi"></i>20 Apr, 2014</a>
+									<a href="../../../15-buddypress-wordpress-themes-2014/#comments"><i class="icon-message mi"></i><span class="dsq-postid" rel="139 http_3A//theme20.com/@p=139">0</span></a>								</div>
+							</div>
+						</div>
+					</div>
+									<div class="item_small">
+						<div class="one_post">
+																					<div class="featured_thumb">
+								<a href="../../../10-corporate-multi-purpose-wordpress-themes-2014/default.htm" title="10 Corporate Multi-Purpose WordPress Themes 2014">
+									<img width="80" height="80" src="../../../wp/wp-content/uploads/2014/04/tf-preview.__large_preview-80x80.jpg" class="attachment-thumbnail wp-post-image" alt="tf-preview.__large_preview" />
+									<span class="thumb-icon"><i class="icon-export"></i></span>								</a>
+							</div>
+																					<div class="item-details">
+								<h3><a href="../../../10-corporate-multi-purpose-wordpress-themes-2014/default.htm" rel="bookmark" title="10 Corporate Multi-Purpose WordPress Themes 2014">10 Corporate Multi-Purpose WordPress Themes 2014</a></h3>
+								<div class="post_meta">
+									<a href="../../../2014/04/default.htm" rel="date" title="10 Corporate Multi-Purpose WordPress Themes 2014"><i class="icon-calendar mi"></i>22 Apr, 2014</a>
+									<a href="../../../10-corporate-multi-purpose-wordpress-themes-2014/#comments"><i class="icon-message mi"></i><span class="dsq-postid" rel="154 http_3A//theme20.com/@p=154">0</span></a>								</div>
+							</div>
+						</div>
+					</div>
+							</div><!--/.T20-tab-->
+			
+			
+
+		
+						
+			<div id="tab-comments" class="T20-tab group">
+							</div><!--/.T20-tab-->
+
+		
+					<div id="tab-tags" class="T20-tab tagcloud group">
+				<a href='../../../tag/2014/default.htm' class='tag-link-56' title='2 topics' style='font-size: 10.8pt;'>2014</a>
+<a href='../../../tag/architecture/default.htm' class='tag-link-35' title='1 topic' style='font-size: 8pt;'>Architecture</a>
+<a href='../../../tag/artist/default.htm' class='tag-link-46' title='1 topic' style='font-size: 8pt;'>artist</a>
+<a href='../../../tag/band/default.htm' class='tag-link-44' title='1 topic' style='font-size: 8pt;'>band</a>
+<a href='../../../tag/blog/default.htm' class='tag-link-58' title='3 topics' style='font-size: 12.666666666667pt;'>blog</a>
+<a href='../../../tag/booking/default.htm' class='tag-link-41' title='1 topic' style='font-size: 8pt;'>Booking</a>
+<a href='../../../tag/business/default.htm' class='tag-link-29' title='2 topics' style='font-size: 10.8pt;'>business</a>
+<a href='../../../tag/church/default.htm' class='tag-link-62' title='1 topic' style='font-size: 8pt;'>church</a>
+<a href='../../../tag/corporate/default.htm' class='tag-link-28' title='2 topics' style='font-size: 10.8pt;'>corporate</a>
+<a href='../../../tag/creative/default.htm' class='tag-link-52' title='1 topic' style='font-size: 8pt;'>creative</a>
+<a href='../../../tag/dj/default.htm' class='tag-link-47' title='1 topic' style='font-size: 8pt;'>dj</a>
+<a href='../../../tag/gallery/default.htm' class='tag-link-72' title='2 topics' style='font-size: 10.8pt;'>gallery</a>
+<a href='../../../tag/health/default.htm' class='tag-link-38' title='1 topic' style='font-size: 8pt;'>Health</a>
+<a href='../../../tag/hotel/default.htm' class='tag-link-42' title='1 topic' style='font-size: 8pt;'>Hotel</a>
+<a href='../../../tag/landing/default.htm' class='tag-link-49' title='1 topic' style='font-size: 8pt;'>landing</a>
+<a href='../../../tag/magazine/default.htm' class='tag-link-60' title='2 topics' style='font-size: 10.8pt;'>magazine</a>
+<a href='../../../tag/masonry/default.htm' class='tag-link-61' title='1 topic' style='font-size: 8pt;'>masonry</a>
+<a href='../../../tag/medical/default.htm' class='tag-link-37' title='1 topic' style='font-size: 8pt;'>Medical</a>
+<a href='../../../tag/medicure/default.htm' class='tag-link-39' title='1 topic' style='font-size: 8pt;'>MediCure</a>
+<a href='../../../tag/multi-purpose/default.htm' class='tag-link-31' title='1 topic' style='font-size: 8pt;'>Multi-Purpose</a>
+<a href='../../../tag/music/default.htm' class='tag-link-43' title='1 topic' style='font-size: 8pt;'>music</a>
+<a href='../../../tag/musician/default.htm' class='tag-link-45' title='1 topic' style='font-size: 8pt;'>musician</a>
+<a href='../../../tag/news/default.htm' class='tag-link-59' title='2 topics' style='font-size: 10.8pt;'>news</a>
+<a href='../../../tag/one-page/default.htm' class='tag-link-50' title='1 topic' style='font-size: 8pt;'>one-page</a>
+<a href='../../../tag/onepage/default.htm' class='tag-link-33' title='3 topics' style='font-size: 12.666666666667pt;'>OnePage</a>
+<a href='../../../tag/parallax/default.htm' class='tag-link-51' title='1 topic' style='font-size: 8pt;'>parallax</a>
+<a href='../../../tag/personal/default.htm' class='tag-link-57' title='1 topic' style='font-size: 8pt;'>personal</a>
+<a href='../../../tag/photographer/default.htm' class='tag-link-25' title='1 topic' style='font-size: 8pt;'>photographer</a>
+<a href='../../../tag/photography/default.htm' class='tag-link-23' title='1 topic' style='font-size: 8pt;'>photography</a>
+<a href='../../../tag/plugin/default.htm' class='tag-link-55' title='5 topics' style='font-size: 15.466666666667pt;'>plugin</a>
+<a href='../../../tag/portfolio/default.htm' class='tag-link-73' title='2 topics' style='font-size: 10.8pt;'>portfolio</a>
+<a href='../../../tag/premium/default.htm' class='tag-link-24' title='3 topics' style='font-size: 12.666666666667pt;'>premium</a>
+<a href='../../../tag/remix/default.htm' class='tag-link-48' title='1 topic' style='font-size: 8pt;'>remix</a>
+<a href='../../../tag/responsive/default.htm' class='tag-link-30' title='3 topics' style='font-size: 12.666666666667pt;'>Responsive</a>
+<a href='../../../tag/retina/default.htm' class='tag-link-34' title='1 topic' style='font-size: 8pt;'>Retina</a>
+<a href='../../../tag/sentiment/default.htm' class='tag-link-32' title='1 topic' style='font-size: 8pt;'>Sentiment</a>
+<a href='../../../tag/shot/default.htm' class='tag-link-27' title='1 topic' style='font-size: 8pt;'>shot</a>
+<a href='../../../tag/theme/default.htm' class='tag-link-26' title='12 topics' style='font-size: 20.6pt;'>theme</a>
+<a href='../../../tag/theme20/default.htm' class='tag-link-10' title='1 topic' style='font-size: 8pt;'>Theme20</a>
+<a href='../../../tag/travel/default.htm' class='tag-link-40' title='1 topic' style='font-size: 8pt;'>Travel</a>
+<a href='../../../tag/ultimate/default.htm' class='tag-link-36' title='1 topic' style='font-size: 8pt;'>Ultimate</a>
+<a href='../../../tag/unique/default.htm' class='tag-link-53' title='1 topic' style='font-size: 8pt;'>unique</a>
+<a href='../../../tag/widget/default.htm' class='tag-link-54' title='1 topic' style='font-size: 8pt;'>widget</a>
+<a href='../../../tag/wordpress/default.htm' class='tag-link-22' title='15 topics' style='font-size: 22pt;'>wordpress</a>
+<a href='../../../tag/wp/default.htm' class='tag-link-65' title='6 topics' style='font-size: 16.555555555556pt;'>wp</a>			</div><!--/tab-->
+			</div>
+
+
+	</div>
+
+			</div><!-- /row -->
+		</div><!-- /page content -->
+
+		<footer id="footer">
+			
+						<div class="row clearfix">
+				<div class="footer_last">
+											<span class="copyright">Copyright 2014 by Theme20. All Rights Reserved.</span>
+					
+					<nav class="nav-footer" id="nav-footer">
+						<ul class="sf-menu"><li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-62"><a href="../../../default.htm">Home</a></li>
+<li id="menu-item-60" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60"><a href="../../../category/themes/default.htm">Themes</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58"><a href="../../../category/plugins/default.htm">Plugins</a></li>
+<li id="menu-item-57" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-57"><a href="../../../category/inspiration/default.htm">Inspiration</a></li>
+<li id="menu-item-59" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59"><a href="../../../category/psds/default.htm">PSD&#8217;s</a></li>
+<li id="menu-item-61" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-61"><a href="../../../category/tutorials/default.htm">Tutorials</a></li>
+</ul>					</nav><!--/nav-footer-->
+				</div><!-- /last footer -->
+			</div><!-- /row -->
+			
+		</footer><!-- /footer -->
+	</div><!-- /layout -->
+			<div id="toTop"><i class="icon-arrow-thin-up"></i></div>
+	
+<script type='text/javascript' src='../../../wp/wp-content/themes/sevenmag/js/seven.min.js@ver=3.9.1'></script>
+<script type='text/javascript' src='../../../wp/wp-content/themes/sevenmag/js/owl.carousel.min.js@ver=3.9.1'></script>
+<script type='text/javascript' src='../../../wp/wp-content/themes/sevenmag/js/jquery.li-scroller.1.0.js@ver=3.9.1'></script>
+<script type='text/javascript' src='../../../wp/wp-content/themes/sevenmag/js/jquery.fitvids.js@ver=3.9.1'></script>
+<script type='text/javascript' src='../../../wp/wp-content/themes/sevenmag/js/custom.js@ver=3.9.1'></script>
+</body>
+</html>

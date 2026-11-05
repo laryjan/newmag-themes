@@ -1,0 +1,1164 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	   <!-- Define Charset -->
+	   <meta charset="utf-8"/>
+	   <title>Blog - List View - Pure Magazine</title>
+
+	   <meta name="description" content="Blog - List View - Pure Magazine" />
+	   <meta name="keywords" content="themes,blog,responsive,retina,html5,css3" />
+
+	   <!-- first-mobile-meta -->
+	   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	   <!-- Bootstrap sheets -->
+	   <link href="css/bootstrap.css" rel="stylesheet"/>
+
+	   <!-- font awesome icons -->
+	   <link rel="stylesheet" href="font-awesome/css/font-awesome.css">
+
+	   <!-- fonts  -->
+	   <link href='http://fonts.googleapis.com/css?family=Roboto:300,400,700,900' rel='stylesheet' type='text/css' />
+	   <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,700' rel='stylesheet' type='text/css' />
+
+	   <!-- stylesheet -->
+	   <link href="css/style.css" rel="stylesheet" type="text/css"/>
+	   <!-- media query -->
+	   <link href="css/responsive.css" rel="stylesheet" type="text/css"/>
+
+	   <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+       <!--[if lt IE 9]>
+	   <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	   <![endif]-->
+</head>
+
+
+<body>
+<header class="top-bar"> <!-- top bar -->
+      <div class="container">
+	      <div class="row">
+    	      <div class="col-sm-6">
+		           <ul class="icons-bar">
+				      <li>
+			              <a class="icons-link" data-toggle="modal" data-target="#modal-1" href="#">
+					         <i class="fa fa-user fa-lg"></i>
+					      </a>
+						  <div class="modal-sign modal" id="modal-1" tabindex="-1" role="dialog">
+						      <div class="modal-dialog">
+							      <div class="modal-content">
+								      <div class="modal-header">
+									      <button type="button" class="close" data-dismiss="modal">&times;</button>
+								          <div class="sign-tabs">
+						                      <ul class="nav-sign">
+						                          <li class="active sign-in-bar">
+							                          <a href="#section-3" data-toggle="tab"><span>sign in</span></a>
+							                      </li>
+						                          <li class="sign-up-bar">
+							                          <a href="#section-4" data-toggle="tab"><span>sign up</span></a>
+							                      </li>
+							                  </ul>
+							                  <div class="tab-content">
+							                      <div class="sign-in-form tab-pane fade in active" id="section-3"> <!-- tab section-1 -->
+                                                      <form role="form" class="sign-place"><!-- sign -->
+													      <span class="text-capitalize sign-title">
+													          hello world, you can sign in by your e-mail here
+													      </span>
+                                                          <input type="text" class="text-capitalize forms form-sign input-lg" placeholder="user name">
+                                                          <input type="text" class="text-capitalize forms form-sign input-lg" placeholder="password">
+                                                          <button type="button" class="btn btn-sign-forms">sign in</button>
+		                                              </form>
+													  <a class="under-line-a" href="#">
+													      <span class="text-capitalize alert-title">
+													         forget password?
+													      </span>
+													  </a>
+							                      </div>
+							                      <div class="sign-up-form tab-pane fade" id="section-4"> <!-- tab section-2 -->
+                                                      <form role="form" class="sign-place"><!-- sign -->
+													      <span class="text-capitalize sign-title">
+													          hello world, you can sign up by your e-mail here
+													      </span>
+                                                          <input type="text" class="text-capitalize forms form-sign input-lg" placeholder="user name">
+                                                          <input type="text" class="text-capitalize forms form-sign input-lg" placeholder="e-mail">
+                                                          <button type="button" class="btn btn-sign-forms">sign up</button>
+		                                              </form>
+													  <a class="under-line-a" href="#">
+													      <span class="text-capitalize alert-title">
+													          will send to you password via e-mail?
+													      </span>
+													  </a>
+							                      </div>
+                                              </div>
+                                          </div>
+									  </div>
+								  </div>
+						      </div>
+						  </div>
+					  </li>
+                      <li>
+					      <span class="top-lines">|</span>
+					  </li>
+					  <li>
+			              <a class="icons-link" data-toggle="modal" data-target="#modal-2" href="#">
+					          <i class="fa fa-search fa-lg"></i>
+					      </a>
+						  <div class="modal-search modal" id="modal-2" tabindex="-1" role="dialog">
+						      <div class="modal-dialog">
+							      <div class="modal-content">
+								      <div class="modal-header">
+									      <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                          <form role="form" class="sign-place"><!-- sign -->
+										      <div class="search-modal-form">
+                                                  <input type="text" class="text-capitalize forms form-sign input-lg" placeholder="search......">
+										          <a href="#"><i class="fa fa-search fa-lg"></i></a>
+                                              </div>
+		                                  </form>
+									  </div>
+								  </div>
+						      </div>
+						  </div>
+					  </li>
+                      <li>
+					      <span class="top-lines">|</span>
+				      </li>
+                      <li>
+			              <a class="icons-link" href="#">
+						      <i class="fa fa-share-square fa-lg"></i>
+					      </a>
+					  </li>
+                      <li>
+					      <span class="top-lines">|</span>
+					  </li>
+                      <li>
+			              <a class="icons-link" href="#">
+					          <i class="fa fa-envelope fa-lg"></i>
+					      </a>
+                      </li>
+			      </ul>
+		      </div>
+	           <div class="col-sm-6">
+		           <div class="time-zone">
+			           <i class="fa fa-sun-o fa-lg"></i>
+                       <span class="text-top">FRIDAY 12/10/2013</span>
+                       <span class="text-top">|</span>
+                       <span class="text-top">12:00 AM</span>
+			       </div>
+		       </div>
+          </div>
+	  </div>
+</header>
+<!--end top bar -->
+
+<nav class="navbar navbar-default" role="navigation"> <!-- Nav Bar -->
+  <div class="container">
+      <div class="row">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+              </button>
+              <a class="" href="index.html"><img class="navbar-brand" src="imgs/logo.png" alt="//"/></a>
+          </div>
+
+
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav navbar-right">
+                  <li class="dropdown">
+                      <a href="index.html" class="dropdown-toggle" data-toggle="dropdown">home<span class="caret"></span></a>
+                      <ul class="dropdown-menu" role="menu">
+			              <li><div class="caret-1"></div></li>
+                          <li><a href="index.html">home</a></li>
+                          <li class="divider"></li>
+                          <li><a href="home2.html">home 2</a></li>
+                      </ul>
+                  </li>
+                  <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">pages<span class="caret"></span></a>
+                      <ul class="dropdown-menu" role="menu">
+			              <li><div class="caret-1"></div></li>
+                          <li><a href="movies.html">movies</a></li>
+                          <li class="divider"></li>
+                          <li><a href="music.html">music</a></li>
+                          <li class="divider"></li>
+                          <li><a href="games.html">games</a></li>
+                          <li class="divider"></li>
+                          <li><a href="tech.html">tech</a></li>
+                          <li class="divider"></li>
+                          <li><a href="gallery.html">gallery</a></li>
+                      </ul>
+                  </li>
+		          <li><a href="shop.html">shop</a></li>
+                  <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">PRODUCTS<span class="caret"></span></a>
+                      <ul class="dropdown-menu" role="menu">
+			              <li><div class="caret-1"></div></li>
+                          <li><a href="grid-view-product.html">GRID VIEW</a></li>
+                          <li class="divider"></li>
+                          <li><a href="list-view-product.html">LIST VIEW</a></li>
+                          <li class="divider"></li>
+                          <li><a href="single-product.html">SINGLE PRODUCTS</a></li>
+                          <li class="divider"></li>
+                          <li><a href="cart-check-out.html">CART CHECKOUT</a></li>
+                      </ul>
+                  </li>
+                  <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown">BLOG<span class="caret"></span></a>
+                      <ul class="dropdown-menu" role="menu">
+			              <li><div class="caret-1"></div></li>
+                          <li><a href="list-view-blog.html">LIST VIEW</a></li>
+                          <li class="divider"></li>
+                          <li><a href="grid-view-blog.html">GRID VIEW</a></li>
+                          <li class="divider"></li>
+                          <li><a href="single-blog.html">SINGLE BLOG</a></li>
+                          <li class="divider"></li>
+                          <li><a href="404.html">404 PAGE</a></li>
+                      </ul>
+                  </li>
+                  <li><a href="contact.html">CONTACT</a></li>
+              </ul>
+          </div>
+      </div>
+  </div>
+</nav>
+<!-- /end navbar-->
+
+<div class="bar-mid"><!-- user panel - shopping cart - cart-slider -->
+      <div class="container">
+	      <div class="row">
+              <div class="col-md-3 col-xs-3 col-xs-sp"><!-- user-panel -->
+                  <div class="user-panel">
+				      <div class="user-panel-img">
+					      <img src="imgs/avatar.png" alt="//" />
+					  </div>
+				      <span class="user-tag">3</span>
+				      <span class="name-user">user name</span>
+			          <div class="dropdown down-user-panel">
+					      <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+					          <i class="fa fa-angle-down fa-lg"></i>
+						  </a>
+                          <ul class="dropdown-menu user-panel-down" role="menu"><!-- drop down -->
+						      <li class="caret-p">
+						         <div class="caret-3"></div>
+							  </li>
+                              <li><!-- item -->
+							      <div class="user-panel-details">
+								      <i class="fa fa-user fa-lg"></i>
+									  <a href="#"><span>Your Profile</span></a>
+								  </div>
+								  <div class="user-panel-tags">
+								      <span>5</span>
+								  </div>
+							  </li>
+                              <li class="background-dif"><!-- item -->
+							      <div class="user-panel-details">
+								      <i class="fa fa-star fa-lg"></i>
+									  <a href="#"><span>Favourites</span></a>
+								  </div>
+								  <div class="user-panel-tags">
+								      <span>10</span>
+								  </div>
+							  </li>
+                              <li><!-- item -->
+							      <div class="user-panel-details">
+								      <i class="fa fa-wrench fa-lg"></i>
+									  <a href="#"><span>Settings</span></a>
+								  </div>
+							  </li>
+                              <li><!-- item -->
+							      <div class="user-panel-details">
+								      <i class="fa fa-sign-out fa-lg"></i>
+									  <a href="#"><span>Logout</span></a>
+								  </div>
+							  </li>
+                         </ul>
+				      </div>
+				  </div>
+			  </div>
+              <div class="col-md-1 col-md-offset-1 col-sm-offset-1 col-sm-1 col-xs-sp"><!-- shopping cart -->
+			      <div class="shopping-cart">
+					  <span>4</span>
+				      <a href="#"> <i class="fa fa-shopping-cart fa-lg"></i></a>
+				  </div>
+			  </div>
+              <div class="col-md-7 col-sm-7 hidden-xs"><!-- shop slider -->
+			      <div class="right-bar-content">
+			          <div class="dropdown left-bar-right"> <!-- drop down shop slider -->
+					      <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+					      <i class="fa fa-angle-down fa-lg i-2"></i></a>
+                          <ul id="scroll" class="dropdown-menu" role="menu">
+						      <li class="caret-p">
+						         <div class="caret-2"></div>
+							  </li>
+                              <li><!-- item -->
+							      <div class="img-shop-nav">
+							          <a href="#"><img src="imgs/shop/shop4.jpg" alt="//" /></a>
+								  </div>
+								  <div class="right-nav-down">
+								      <a href="#">
+									      <span class="span-1">ALBUM NAME (SOUND TRACK)</span>
+									  </a>
+								      <span class="span-2">€ 50,20</span>
+								      <a href="#"><i class="fa fa-close fa-lg"></i></a>
+								  </div>
+							  </li>
+
+                              <li class="background-list"><!-- item -->
+							      <div class="clearfix"></div>
+							      <div class="img-shop-nav">
+							          <a href="#"><img src="imgs/shop/shop4.jpg" alt="//" /></a>
+								  </div>
+								  <div class="right-nav-down">
+								      <a href="#">
+									      <span class="span-1">ALBUM NAME (SOUND TRACK)</span>
+									  </a>
+								      <span class="span-2">€ 50,20</span>
+								      <a href="#"><i class="fa fa-close fa-lg"></i></a>
+								  </div>
+							  </li>
+
+                              <li><!-- item -->
+							      <div class="clearfix"></div>
+							      <div class="img-shop-nav">
+							          <a href="#"><img src="imgs/shop/shop4.jpg" alt="//" /></a>
+								  </div>
+								  <div class="right-nav-down">
+								      <a href="#">
+									      <span class="span-1">ALBUM NAME (SOUND TRACK)</span>
+									  </a>
+								      <span class="span-2">€ 50,20</span>
+								      <a href="#"><i class="fa fa-close fa-lg"></i></a>
+								  </div>
+							  </li>
+
+                              <li class="background-list"><!-- item -->
+							      <div class="clearfix"></div>
+							      <div class="img-shop-nav">
+							          <a href="#"><img src="imgs/shop/shop4.jpg" alt="//" /></a>
+								  </div>
+								  <div class="right-nav-down">
+								      <a href="#">
+									      <span class="span-1">ALBUM NAME (SOUND TRACK)</span>
+									  </a>
+								      <span class="span-2">€ 50,20</span>
+								      <a href="#"><i class="fa fa-close fa-lg"></i></a>
+								  </div>
+							  </li>
+
+                              <li><!-- item -->
+							      <div class="img-shop-nav">
+							          <a href="#"><img src="imgs/shop/shop4.jpg" alt="//" /></a>
+								  </div>
+								  <div class="right-nav-down">
+								      <a href="#">
+									      <span class="span-1">ALBUM NAME (SOUND TRACK)</span>
+									  </a>
+								      <span class="span-2">€ 50,20</span>
+								      <a href="#"><i class="fa fa-close fa-lg"></i></a>
+								  </div>
+							  </li>
+
+                              <li class="background-list"><!-- item -->
+							      <div class="clearfix"></div>
+							      <div class="img-shop-nav">
+							          <a href="#"><img src="imgs/shop/shop4.jpg" alt="//" /></a>
+								  </div>
+								  <div class="right-nav-down">
+								      <a href="#">
+									      <span class="span-1">ALBUM NAME (SOUND TRACK)</span>
+									  </a>
+								      <span class="span-2">€ 50,20</span>
+								      <a href="#"><i class="fa fa-close fa-lg"></i></a>
+								  </div>
+							  </li>
+
+                              <li><!-- item -->
+							      <div class="clearfix"></div>
+							      <div class="img-shop-nav">
+							          <a href="#"><img src="imgs/shop/shop4.jpg" alt="//" /></a>
+								  </div>
+								  <div class="right-nav-down">
+								      <a href="#">
+									      <span class="span-1">ALBUM NAME (SOUND TRACK)</span>
+									  </a>
+								      <span class="span-2">€ 50,20</span>
+								      <a href="#"><i class="fa fa-close fa-lg"></i></a>
+								  </div>
+							  </li>
+
+                              <li class="background-list"><!-- item -->
+							      <div class="end-list">
+									  <span>4 selected product</span>
+									  <span>€ 522,9</span>
+									  <button class="btn btn-nav-list">Check Out</button>
+									  <button class="btn btn-nav-list">Buy Now</button>
+								  </div>
+							  </li>
+                         </ul>
+				      </div>
+					  <div class="cast-container carousel slide" data-ride="carousel" id="carousel-shop-slider"><!-- shop slider -->
+					      <div class="arrows-next-prev">
+					          <a href="#carousel-shop-slider" data-slide="prev">
+							  <i class="fa fa-angle-left fa-lg"></i></a>
+					          <a href="#carousel-shop-slider" data-slide="next">
+							  <i class="fa fa-angle-right fa-lg right-arrow-s"></i></a>
+                          </div>
+                          <ul class="carousel-inner">
+						      <li class="item active"><!-- item -->
+							      <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit adipiscing eli</span>
+							  </li>
+						      <li class="item">
+							      <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit adipiscing eli</span>
+							  </li><!-- item -->
+						      <li class="item">
+							      <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit adipiscing eli</span>
+							  </li>
+						      <li class="item"><!-- item -->
+							      <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit adipiscing eli</span>
+							  </li>
+						  </ul>
+					  </div>
+				  </div>
+			  </div>
+		  </div>
+	  </div>
+</div>
+<!-- /end cast-->
+<div class="latest-cast"> <!-- latest cast-->
+      <div class="container">
+	      <div class="row">
+		      <div class="col-md-12 hidden-xs">
+			      <div class="latest-cast-default">
+                      <div class="row">
+					      <div class="col-md-2 col-sm-2"><!-- cast drop down -->
+						      <div class="left-cast dropdown">
+								  <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+								      <i class="fa fa-chevron-circle-down fa-lg"></i>
+								  </a>
+                                  <ul class="dropdown-menu" role="menu">
+                                      <li><a href="#">all news</a></li><!-- item -->
+                                      <li class="divider"></li>
+                                      <li><a href="#">movies news</a></li><!-- item -->
+                                      <li class="divider"></li>
+                                      <li><a href="#">music news</a></li><!-- item -->
+                                      <li class="divider"></li>
+                                      <li><a href="#">gmaes news</a></li><!-- item -->
+                                      <li class="divider"></li>
+                                      <li><a href="#">shop news</a></li><!-- item -->
+                                  </ul>
+								  <div class="text-cast">
+							          <span class="text-1">news</span>
+								      <span class="text-2">movies</span>
+                                  </div>
+							  </div>
+						  </div>
+
+						  <div class="col-md-10 col-sm-10"><!-- cast slider -->
+						      <div class="cast-slider carousel slide" data-ride="carousel" id="carousel-latest-cast">
+							      <div class="next-prev">
+									  <div class="prev">
+								          <a href="#carousel-latest-cast" data-slide="prev">
+								              <i class="fa fa-angle-left fa-lg"></i>
+								          </a>
+                                      </div>
+									  <div class="next">
+								          <a href="#carousel-latest-cast" data-slide="next">
+								              <i class="fa fa-angle-right fa-lg"></i>
+								          </a>
+                                      </div>
+							      </div>
+                                  <ul class="slider-texts carousel-inner">
+						              <li class="item active"><!-- item -->
+							              <a href="#">
+											  <span class="span-up">
+											      We Provide Full suport and Full Help to our customers
+											  </span>
+										  </a>
+										  <span class="span-under">
+											  Sub title text line to describe your important message here
+										  </span>
+							          </li>
+						              <li class="item"><!-- item -->
+							              <a href="#">
+											  <span class="span-up">
+											      We Provide Full suport and Full Help to our customers demo
+											  </span>
+										  </a>
+										  <span class="span-under">
+											  Sub title text line to describe your important message here
+										  </span>
+							          </li>
+						              <li class="item"><!-- item -->
+							              <a href="#">
+											  <span class="span-up">
+											      We Provide Full suport and Full Help to our customers demo
+											  </span>
+										  </a>
+										  <span class="span-under">
+											  Sub title text line to describe your important message here
+										  </span>
+							          </li>
+						          </ul>
+								  <div class="cast-read-more">
+						              <a href="#"><i class="fa fa-chevron-circle-right fa-lg"></i></a>
+								  </div>
+							  </div>
+						  </div>
+					  </div>
+				  </div>
+			  </div>
+		  </div>
+	  </div>
+</div>
+<!-- /end latest cast-->
+<section class="container-xs"><!-- page content -->
+      <div class="container">
+	      <div class="row">
+			  <div class="col-md-12"><!-- head tags -->
+				  <h3 class="head-text">Blog list view</h3>
+				  <span class="underline big"><em> </em></span>
+              </div>
+		  </div>
+          <div class="row">
+		      <div class="col-md-9">
+			      <div class="blog-list-content">
+					  <div class="list-blog-m list-blog-blocks"><!--block-->
+					      <div class="row">
+					          <div class="col-md-5">
+							      <div class="left-list-block effects-list">
+								      <div class="small-hidden head-small-tags red-small-bg">
+					                      <i class="fa fa-video-camera fa-lg"></i>
+								      </div>
+								      <div class="head-tags red-bg">
+									      <span class="head-title">movie</span>
+								      </div>
+			                          <ul class="img-shop-list">
+								          <li>
+										      <a href="single-blog.html">
+											      <img src="imgs/blog/blog-list-1.jpg" alt="//" />
+											  </a>
+										  </li>
+								      </ul>
+                                  </div>
+						      </div>
+						      <div class="col-md-7">
+						          <div class="list-blog-text">
+							          <a href="single-blog.html"><h4>PRODUCT 1</h4></a>
+						              <p>
+                                          Phasellus dictum pretium augue eu hendrerit. Fusce tincidunt ultricies pretium. Maecenas lacinia est sed lacus blandit rutrum. Sed consectetur odio a consequat gravida. Maecenas pellentesque nibh eu vestibulum porta. Cras malesuada felis ultricies pretium. Maecenas lacinia est sed lacus blandit rutrum. Sed consectetur odio a consequat gravida. Maece ......
+                                      </p>
+								      <span>Dec 13th 2013 | 10.30 am</span>
+									  <ul class="icons-list-blog">
+									      <li class="icons-hover">
+										      <span class="hover icons first">
+											      mohamed allam
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-user fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+										      <span class="hover icons">
+											      230
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-comments fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+										      <span class="hover icons">
+											      260
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-eye fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+										      <span class="hover icons">
+											      8.0
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-heart fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-share-square fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									  </ul>
+						    	      <button class="btn btn-blog-blocks">READ MORE</button>
+							      </div>
+						      </div>
+                         </div>
+				      </div>
+					  <div class="list-blog-m list-blog-blocks"><!--block-->
+					      <div class="row">
+					          <div class="col-md-5">
+							      <div class="left-list-block effects-list">
+								      <div class="small-hidden head-small-tags purple-small-bg">
+					                      <i class="fa fa-music fa-lg"></i>
+								      </div>
+								      <div class="head-tags purple-bg">
+									      <span class="head-title">music</span>
+								      </div>
+			                          <ul class="img-shop-list">
+								          <li>
+										      <a href="single-blog.html">
+											      <img src="imgs/blog/blog-list-2.jpg" alt="//" />
+											  </a>
+										  </li>
+								      </ul>
+                                  </div>
+						      </div>
+						      <div class="col-md-7">
+						          <div class="list-blog-text">
+							          <a href="single-blog.html"><h4>PRODUCT 1</h4></a>
+						              <p>
+                                          Phasellus dictum pretium augue eu hendrerit. Fusce tincidunt ultricies pretium. Maecenas lacinia est sed lacus blandit rutrum. Sed consectetur odio a consequat gravida. Maecenas pellentesque nibh eu vestibulum porta. Cras malesuada felis ultricies pretium. Maecenas lacinia est sed lacus blandit rutrum. Sed consectetur odio a consequat gravida. Maece ......
+                                      </p>
+								      <span>Dec 13th 2013 | 10.30 am</span>
+									  <ul class="icons-list-blog">
+									      <li class="icons-hover">
+										      <span class="hover icons first">
+											      mohamed allam
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-user fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+										      <span class="hover icons">
+											      230
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-comments fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+										      <span class="hover icons">
+											      260
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-eye fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+										      <span class="hover icons">
+											      8.0
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-heart fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-share-square fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									  </ul>
+						    	      <button class="btn btn-blog-blocks">READ MORE</button>
+							      </div>
+						      </div>
+                         </div>
+				      </div>
+					  <div class="list-blog-m list-blog-blocks"><!--block-->
+					      <div class="row">
+					          <div class="col-md-5">
+							      <div class="left-list-block effects-list carousel slide" data-ride="carousel" id="carousel-gallery-2">
+								      <div class="small-hidden head-small-tags green-small-bg">
+					                      <i class="fa fa-image fa-lg"></i>
+								      </div>
+								      <div class="head-tags green-bg">
+									      <span class="head-title">gallery</span>
+								      </div>
+									  <ul class="gallery-slider">
+                                           <li>
+										      <a href="#carousel-gallery-2" data-slide="prev">
+											      <i class="fa fa-angle-left fa-lg"></i>
+											  </a>
+										   </li>
+                                           <li>
+										      <a href="#carousel-gallery-2" data-slide="next">
+											      <i class="fa fa-angle-right fa-lg"></i>
+											  </a>
+										   </li>
+									  </ul>
+			                          <ul class="img-shop-list carousel-inner">
+								          <li class="item active">
+										      <a href="single-blog.html">
+											      <img src="imgs/blog/blog-list-3.jpg" alt="//" />
+											  </a>
+										  </li>
+								          <li class="item">
+										      <a href="single-blog.html">
+											      <img src="imgs/blog/blog-list-4.jpg" alt="//" />
+											  </a>
+										  </li>
+								      </ul>
+                                  </div>
+						      </div>
+						      <div class="col-md-7">
+						          <div class="list-blog-text">
+							          <a href="single-blog.html"><h4>PRODUCT 1</h4></a>
+						              <p>
+                                          Phasellus dictum pretium augue eu hendrerit. Fusce tincidunt ultricies pretium. Maecenas lacinia est sed lacus blandit rutrum. Sed consectetur odio a consequat gravida. Maecenas pellentesque nibh eu vestibulum porta. Cras malesuada felis ultricies pretium. Maecenas lacinia est sed lacus blandit rutrum. Sed consectetur odio a consequat gravida. Maece ......
+                                      </p>
+								      <span>Dec 13th 2013 | 10.30 am</span>
+									  <ul class="icons-list-blog">
+									      <li class="icons-hover">
+										      <span class="hover icons first">
+											      mohamed allam
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-user fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+										      <span class="hover icons">
+											      230
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-comments fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+										      <span class="hover icons">
+											      260
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-eye fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+										      <span class="hover icons">
+											      8.0
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-heart fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-share-square fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									  </ul>
+						    	      <button class="btn btn-blog-blocks">READ MORE</button>
+							      </div>
+						      </div>
+                         </div>
+				      </div>
+					  <div class="list-blog-blocks last-child"><!--block-->
+					      <div class="row">
+					          <div class="col-md-5">
+							      <div class="left-list-block effects-list">
+								      <div class="small-hidden head-small-tags blue-small-bg">
+					                      <i class="fa fa-video-camera fa-lg"></i>
+								      </div>
+								      <div class="head-tags blue-bg">
+									      <span class="head-title">games</span>
+								      </div>
+			                          <ul class="img-shop-list">
+								          <li>
+										      <a href="single-blog.html">
+											      <img src="imgs/blog/blog-list-5.jpg" alt="//" />
+											  </a>
+										  </li>
+								      </ul>
+                                  </div>
+						      </div>
+						      <div class="col-md-7">
+						          <div class="list-blog-text">
+							          <a href="single-blog.html"><h4>PRODUCT 1</h4></a>
+						              <p>
+                                          Phasellus dictum pretium augue eu hendrerit. Fusce tincidunt ultricies pretium. Maecenas lacinia est sed lacus blandit rutrum. Sed consectetur odio a consequat gravida. Maecenas pellentesque nibh eu vestibulum porta. Cras malesuada felis ultricies pretium. Maecenas lacinia est sed lacus blandit rutrum. Sed consectetur odio a consequat gravida. Maece ......
+                                      </p>
+								      <span>Dec 13th 2013 | 10.30 am</span>
+									  <ul class="icons-list-blog">
+									      <li class="icons-hover">
+										      <span class="hover icons first">
+											      mohamed allam
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-user fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+										      <span class="hover icons">
+											      230
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-comments fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+										      <span class="hover icons">
+											      260
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-eye fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+										      <span class="hover icons">
+											      8.0
+											  </span>
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-heart fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									      <li class="icons-hover">
+					                          <a class="cast-link" href="#">
+					                              <i class="fa fa-share-square fa-lg list-icons"></i>
+					                          </a>
+										  </li>
+									  </ul>
+						    	      <button class="btn btn-blog-blocks">READ MORE</button>
+							      </div>
+						      </div>
+                         </div>
+				      </div>
+				  </div>
+
+                  <div class="row"><!-- pages numbers -->
+		              <div class="pages-numbers">
+			              <div class="col-md-7">
+				              <div class="numbers-content">
+					              <div class="numbers-content-row-1 pull-left">
+					                  <button class="btn shop-p-n-btn">1</button>
+					                  <button class="btn shop-p-n-btn">2</button>
+					                  <button class="btn shop-p-n-btn">3</button>
+					                  <button class="btn shop-p-n-btn">4</button>
+					                  <button class="btn shop-p-n-btn">5</button>
+					                  <button class="btn shop-p-n-btn">6</button>
+                                  </div>
+					              <div class="numbers-content-row-2 pull-right">
+					                  <button class="btn next-prev-btn">previous</button>
+					                  <button class="btn next-prev-btn">next</button>
+                                  </div>
+					          </div>
+				          </div>
+			          </div>
+                  </div>
+			  </div>
+              <div class="col-md-3"><!-- right side page -->
+			      <div class="products-details">
+				      <div class="">
+					      <h3 class="products-details-head">VIEW</h3><!-- view -->
+					      <div class="clearfix"></div>
+					      <div class="products-details-view">
+                              <div class="red-bg-list list-view">
+                                  <a href="list-view-blog.html">
+					                  <i class="fa fa-bars fa-lg"></i>
+							          <span>LIST VIEW</span>
+					              </a>
+                              </div>
+                              <div class="gray-bg-list grid-view">
+                                  <a href="grid-view-blog.html">
+					                  <i class="fa fa-th-large fa-lg"></i>
+							          <span>grid view</span>
+					              </a>
+                              </div>
+                          </div>
+                      </div><!-- end view -->
+
+				      <div class="popular-posts">
+					      <h3 class="products-details-head">popular</h3><!-- popular posts -->
+					      <div class="clearfix"></div>
+					      <div class="popular-posts-content">
+						      <ul class="nav-tabs">
+						          <li class="active popular">
+							          <a href="#section-3" data-toggle="tab"><span>popular</span></a>
+							      </li>
+						          <li class="comments">
+							          <a href="#section-4" data-toggle="tab"><span>comments</span></a>
+							      </li>
+							  </ul>
+							  <div class="tab-content">
+							      <div class="tab-pane fade in active" id="section-3"> <!-- tab section-1 -->
+									   <div class="popular-content"> <!-- block 1 -->
+									      <div class="popular-img">
+				                              <a href="single-blog.html">
+											      <img src="imgs/blog/blog-1.jpg" alt="//"/>
+											  </a>
+									      </div>
+									      <div class="popular-details">
+									          <a href=""><span class="proj-name">Nullam porta est </span></a>
+											  <a href=""><span class="author-name">by mohamed allam</span></a>
+											  <a href=""><span class="views-numbs">2014 view</span></a>
+									      </div>
+										  <div class="clearfix"></div>
+									  </div>
+									   <div class="popular-content"> <!-- block 2 -->
+									      <div class="popular-img">
+				                              <a href="single-blog.html">
+											      <img src="imgs/blog/blog-2.jpg" alt="//"/>
+											  </a>
+									      </div>
+									      <div class="popular-details">
+									          <a href=""><span class="proj-name">Nullam porta est </span></a>
+											  <a href=""><span class="author-name">by mohamed allam</span></a>
+											  <a href=""><span class="views-numbs">2014 view</span></a>
+									      </div>
+										  <div class="clearfix"></div>
+									  </div>
+									   <div class="popular-content"> <!-- block 3 -->
+									      <div class="popular-img">
+				                              <a href="single-blog.html">
+											      <img src="imgs/blog/blog-3.jpg" alt="//"/>
+											  </a>
+									      </div>
+									      <div class="popular-details">
+									          <a href=""><span class="proj-name">Nullam porta est </span></a>
+											  <a href=""><span class="author-name">by mohamed allam</span></a>
+											  <a href=""><span class="views-numbs">2014 view</span></a>
+									      </div>
+										  <div class="clearfix"></div>
+									  </div>
+							      </div>
+							      <div class="tab-pane fade" id="section-4"> <!-- tab section-2 -->
+									   <div class="popular-content"> <!-- block 1 -->
+									      <div class="popular-img">
+				                              <a href="single-blog.html">
+											      <img src="imgs/blog/blog-1.jpg" alt="//"/>
+											  </a>
+									      </div>
+									      <div class="popular-details">
+									          <a href=""><span class="proj-name">Nullam porta est </span></a>
+											  <a href=""><span class="author-name">by mohamed allam</span></a>
+											  <a href=""><span class="views-numbs">2014 view</span></a>
+									      </div>
+										  <div class="clearfix"></div>
+									  </div>
+									   <div class="popular-content"> <!-- block 2 -->
+									      <div class="popular-img">
+				                              <a href="single-blog.html">
+											      <img src="imgs/blog/blog-2.jpg" alt="//"/>
+											  </a>
+									      </div>
+									      <div class="popular-details">
+									          <a href=""><span class="proj-name">Nullam porta est </span></a>
+											  <a href=""><span class="author-name">by mohamed allam</span></a>
+											  <a href=""><span class="views-numbs">2014 view</span></a>
+									      </div>
+										  <div class="clearfix"></div>
+									  </div>
+									   <div class="popular-content"> <!-- block 3 -->
+									      <div class="popular-img">
+				                              <a href="single-blog.html">
+											      <img src="imgs/blog/blog-3.jpg" alt="//"/>
+											  </a>
+									      </div>
+									      <div class="popular-details">
+									          <a href=""><span class="proj-name">Nullam porta est </span></a>
+											  <a href=""><span class="author-name">by mohamed allam</span></a>
+											  <a href=""><span class="views-numbs">2014 view</span></a>
+									      </div>
+										  <div class="clearfix"></div>
+									  </div>
+							      </div>
+                              </div>
+					      </div><!-- end popular-posts-content -->
+                      </div><!-- end popular posts -->
+
+					  <div class="categories"><!-- categories -->
+					      <h3 class="products-details-head">categories</h3><!-- view -->
+					      <div class="clearfix"></div>
+						  <ul>
+	                          <li>
+							      <a href="#"><i class="fa fa-square fa-lg"></i></a>
+							      <a href="#"><span>All</span></a>
+							  </li>
+	                          <li>
+							      <a href="#"><i class="fa fa-square fa-lg"></i></a>
+							      <a href="#"><span>Computer</span></a>
+							  </li>
+	                          <li>
+							      <a href="#"><i class="fa fa-square fa-lg"></i></a>
+							      <a href="#"><span>Smaret phone</span></a>
+							  </li>
+	                          <li>
+							      <a href="#"><i class="fa fa-square fa-lg"></i></a>
+							      <a href="#"><span>Tablet</span></a>
+							  </li>
+	                          <li>
+							      <a href="#"><i class="fa fa-square fa-lg"></i></a>
+							      <a href="#"><span>Printer</span></a>
+							  </li>
+	                          <li>
+							      <a href="#"><i class="fa fa-square fa-lg"></i></a>
+							      <a href="#"><span>Camera</span></a>
+							  </li>
+						  </ul>
+					  </div><!-- end categories -->
+				  </div>
+			  </div>
+          </div>
+	  </div><!-- end container -->
+</section>
+<!-- /end content page-->
+<footer class="footer"> <!-- footer -->
+      <div class="container">
+	      <div class="row">
+              <div class="col-md-4"><!-- footer site details -->
+			      <div class="foot-left">
+	                  <h5 class="foot-head-text">about us</h5><!-- footer-head-tag -->
+					  <img src="imgs/footer-logo.png" alt="//" />
+					  <p>
+					      Nunc dictum est vel risus luctus eu venenatis dsapiending. Morbi mattis urna et felisNunc dictum est vel risus luctus eu venenatis sapien adipiscing. Morbi mattis urna et felisNunc dictum
+                      </p>
+					  <button class="btn foot-btns">read more</button>
+				  </div>
+              </div>
+
+			  <div class="col-md-4"><!-- footer recent post -->
+                  <div class="clearfix"></div>
+                  <div class="foot-posts">
+			          <h5 class="foot-head-text">recent posts</h5><!-- footer-head-tag -->
+                      <div class="recent-posts"><!-- block 1 -->
+				          <div class="row">
+					          <div class="col-md-3 col-xs-2"><!-- post image -->
+						          <div class="recent-img-or">
+						              <div class="recent-img">
+				                          <a href="single-blog.html">
+								    	      <img src="imgs/blog/blog-1.jpg" alt="//"/>
+									      </a>
+							          </div>
+						              <a href="single-blog.html">
+							              <div class="figcaption">
+					                          <i class="fa fa-video-camera fa-lg"></i>
+						                  </div>
+							          </a>
+                                  </div>
+                              </div>
+					          <div class="col-md-9  col-xs-10"><!-- post details -->
+						          <div class="recent-post-text">
+					                  <a href="single-blog.html">
+								          <span class="recent-text-head">Nullam id dolor id nibhDonec sed odio dui</span>
+								      </a>
+								      <a href="single-blog.html">
+								          <span class="recent-text-comment">3comment</span>
+								      </a>
+							          <button class="btn foot-btns pull-right">read more</button>
+							      </div>
+                              </div>
+					      </div>
+				       </div>
+
+					   <div class="recent-posts"><!-- block 2 -->
+				          <div class="row">
+					          <div class="col-md-3 col-xs-2"><!-- post image -->
+						          <div class="recent-img-or">
+						              <div class="recent-img">
+				                          <a href="single-blog.html">
+								    	      <img src="imgs/blog/blog-2.jpg" alt="//"/>
+									      </a>
+							          </div>
+						              <a href="single-blog.html">
+							              <div class="figcaption">
+					                          <i class="fa fa-video-camera fa-lg"></i>
+						                  </div>
+							          </a>
+                                  </div>
+                              </div>
+					          <div class="col-md-9 col-xs-10"><!-- post details -->
+						          <div class="recent-post-text">
+					                  <a href="single-blog.html">
+								          <span class="recent-text-head">Nullam id dolor id nibhDonec sed odio dui</span>
+								      </a>
+								      <a href="single-blog.html">
+								          <span class="recent-text-comment">3comment</span>
+								      </a>
+							          <button class="btn foot-btns pull-right">read more</button>
+							      </div>
+                              </div>
+					      </div>
+				       </div>
+
+					   <div class="recent-posts"><!-- block 3 -->
+				          <div class="row">
+					          <div class="col-md-3 col-xs-2"><!-- post image -->
+						          <div class="recent-img-or">
+						              <div class="recent-img">
+				                          <a href="single-blog.html">
+								    	      <img src="imgs/blog/blog-3.jpg" alt="//"/>
+									      </a>
+							          </div>
+						              <a href="single-blog.html">
+							              <div class="figcaption">
+					                          <i class="fa fa-video-camera fa-lg"></i>
+						                  </div>
+							          </a>
+                                  </div>
+                              </div>
+					          <div class="col-md-9 col-xs-10"><!-- post details -->
+						          <div class="recent-post-text">
+					                  <a href="single-blog.html">
+								          <span class="recent-text-head">Nullam id dolor id nibhDonec sed odio dui</span>
+								      </a>
+								      <a href="single-blog.html">
+								          <span class="recent-text-comment">3comment</span>
+								      </a>
+							          <button class="btn foot-btns pull-right">read more</button>
+							      </div>
+                              </div>
+					      </div>
+				       </div>
+                  </div>
+              </div>
+
+			  <div class="col-md-4"><!-- flickr stream -->
+                  <div class="clearfix"></div>
+				  <div class="flickr">
+			          <h5 class="foot-head-text">flickr stream</h5><!-- footer-head-tag -->
+				      <ul id="basicuse" class="thumbs"></ul>
+                  </div>
+			  </div>
+		  </div>
+	  </div>
+</footer>
+<!-- /end footer-->
+<div class="foot-bar"><!-- footer bar-->
+      <div class="container">
+	      <div class="row">
+			  <div class="foot-bar-m">
+                  <div class="col-sm-6">
+					  <div class="theme-rights">
+				          <span>
+						      Copyrights © 2012 & All Rights Reserved by Lion Codes.
+						 </span>
+                      </div>
+				  </div>
+				  <div class="col-sm-6">
+					  <div class="text-right">
+				          <span class="foot-bar-link">
+				              <a href="#">Privacy Policy</a>/
+					          <a href="#">Terms of Service</a>/
+					          <a href="#">FAQs</a>
+					      </span>
+				      </div>
+				  </div>
+		      </div>
+	      </div>
+      </div>
+</div>
+<!-- /end foot bar -->
+	<!-- general-jquery-->
+    <script src="js/jquery.js"></script>
+	<script src="js/plugin.js"></script>
+
+	<!-- bootstrap-jquery-->
+	<script src="js/bootstrap.min.js" ></script>
+
+	<!-- nice scroll-jquery-->
+	<script src="js/jquery.nicescroll.min.js"></script>
+
+	<!-- jflickrfeed-jquery-->
+	<script src="js/jflickrfeed.js"></script>
+</body>
+</html>
